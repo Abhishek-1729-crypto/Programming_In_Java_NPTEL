@@ -21,6 +21,4 @@ public class Question63 {
          MyThread t = new MyThread();
 		 // run() of class MyThread is called
          t.run();
-     }
-}
-
+    
